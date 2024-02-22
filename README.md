@@ -1,0 +1,1 @@
+# torsdagsopgave-03---Array-ArrayList-and-String
